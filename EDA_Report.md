@@ -25,7 +25,7 @@ We studied the percentage of citizens with special needs who applied for marriag
 
 # Communication
 We would like to give you an overview of what we have found:
-Most applicants for marriage financing ask for a maximum of 60,000, but at the same time, this does not mean that citizens do not have awareness of managing and preparing for the costs of marriage, because the General Authority for Statistics clarified that the number of marriage contracts for the year 2020 amounted to 150 thousand contracts, while the number of citizens who requested marriage financing  34,753 request , also turned out that There are people over the age of 60 who have applied for marriage financing, and this is a problem that everyone should help to solve.
+Most applicants for marriage financing ask for a maximum of 60,000, but at the same time, this does not mean that citizens do not have awareness of managing and preparing for the costs of marriage, because the General Authority for Statistics clarified that the number of marriage contracts for the year 2020 amounted to 150 thousand contracts, while the number of citizens who requested marriage financing  34,753 requests , also turned out that There are people over the age of 60 who have applied for marriage financing, and this is a problem that everyone should help to solve.
 
 # View the financing ratios for marriage
 ![Picture2](https://user-images.githubusercontent.com/71217830/142717697-3e723fe0-fd83-4e1a-b7bd-00bf3c1df51f.png)
