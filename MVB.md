@@ -1,6 +1,6 @@
 # MVB for Social Development Bank Data 
 
-The goal of this project is to understand the behavior of data and the awareness of citizens in term of  managing marriage costs for the year 2020.
+The goal of this project is to understand the awareness of citizens in term of  managing marriage costs for the year 2020.
 
 * An analysis of the months most requested for financing from the bank using "Bar", and we note that in recent months, requests for financing for marriage have increased by a large margin.
 
