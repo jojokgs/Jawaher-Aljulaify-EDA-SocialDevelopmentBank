@@ -1,7 +1,7 @@
 # Measuring the awareness of citizens in preparing for the costs of marriage
 
 # Abstract
-The objective of this project was to measure the awareness of citizens in preparing for the costs of marriage, using the data of the Social Development Bank, and to know the amounts of funding that were taken to finance the marriage.
+The objective of this project is to measure the awareness of citizens in preparing for the costs of marriage, using the data of the Social Development Bank, and to know the amounts of funding that were taken to finance the marriage.
 
 # Design
 The data was obtained from the Saudi (open data) website, and we will analyze the data based on several factors and this will help in knowing the percentage of citizens in need of the maximum amount of funding, and the largest group may be targeted to attend courses that help them in planning and preparing in advance for the costs of marriage
@@ -25,7 +25,7 @@ We studied the percentage of citizens with special needs who applied for marriag
 
 # Communication
 We would like to give you an overview of what we have found:
-Most applicants for marriage financing ask for a maximum of 60,000, but at the same time, this does not mean that citizens do not have awareness of managing and preparing for the costs of marriage, because the General Authority for Statistics clarified that the number of marriage contracts for the year 2020 amounted to 150 thousand contracts, while the number of citizens who requested marriage financing They are 34,753 , It also turned out that There are people over the age of 60 who have applied for marriage financing, and this is a problem that everyone should help to solve.
+Most applicants for marriage financing ask for a maximum of 60,000, but at the same time, this does not mean that citizens do not have awareness of managing and preparing for the costs of marriage, because the General Authority for Statistics clarified that the number of marriage contracts for the year 2020 amounted to 150 thousand contracts, while the number of citizens who requested marriage financing  34,753 request , also turned out that There are people over the age of 60 who have applied for marriage financing, and this is a problem that everyone should help to solve.
 
 # View the financing ratios for marriage
 ![Picture2](https://user-images.githubusercontent.com/71217830/142717697-3e723fe0-fd83-4e1a-b7bd-00bf3c1df51f.png)
