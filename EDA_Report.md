@@ -27,7 +27,17 @@ We studied the percentage of citizens with special needs who applied for marriag
 We would like to give you an overview of what we have found:
 Most applicants for marriage financing ask for a maximum of 60,000, but at the same time, this does not mean that citizens do not have awareness of managing and preparing for the costs of marriage, because the General Authority for Statistics clarified that the number of marriage contracts for the year 2020 amounted to 150 thousand contracts, while the number of citizens who requested marriage financing  34,753 requests , also turned out that There are people over the age of 60 who have applied for marriage financing, and this is a problem that everyone should help to solve.
 
+![7](https://user-images.githubusercontent.com/71217830/142751537-8bc3621d-6251-4b47-90a1-7afa642f9887.png)
+![8](https://user-images.githubusercontent.com/71217830/142751561-9ff43e58-baa9-45a1-954a-9ff4f0718890.png)
 # View the financing ratios for marriage
 ![Picture2](https://user-images.githubusercontent.com/71217830/142717697-3e723fe0-fd83-4e1a-b7bd-00bf3c1df51f.png)
 # Calculating the age ratio
 ![Picture3](https://user-images.githubusercontent.com/71217830/142717715-54b7aaa2-98a5-4f22-9b67-25ff56ff5d1b.png)
+# Calculating the ages of Citizens in relation to the level of funding
+![3](https://user-images.githubusercontent.com/71217830/142751581-6b0bc5e8-b395-4ff5-9de7-bafc64bf9cee.png)
+# Calculating the percentage of people with special needs
+![9](https://user-images.githubusercontent.com/71217830/142751630-71b14f89-4590-4cda-8cd6-921269e6d963.png)
+# View the financing ratios for marriage For people with special needs
+![s1](https://user-images.githubusercontent.com/71217830/142751687-9325a62b-854a-4d9f-a10b-07f71fe08e92.png)
+# Calculating the age ratio to Special needs requesting marriage financing
+![s2](https://user-images.githubusercontent.com/71217830/142751704-e650acff-29c6-4857-ae69-13523d8edc0a.png)
